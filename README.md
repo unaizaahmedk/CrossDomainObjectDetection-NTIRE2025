@@ -1,6 +1,6 @@
 # CrossDomainObjectDetection-NTIRE2025
 
-This repository contains our implementation project inspired by the **NTIRE 2025 Cross Object Detection Challenge**.
+This repository contains our implementation project inspired by the **NTIRE 2025 Cross Domain Object Detection Challenge**.
 
 Rather than replicating the exact methodology from the paper, we explored a practical approach to few-shot object detection using a 5-shot subset of the COCO 2017 dataset and a pre-trained DETR (DEtection TRansformer) model.
 
