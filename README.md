@@ -1,4 +1,4 @@
-# CrossDomainObjectDetection-NTIRE2025
+# Cross Domain Object Detection - NTIRE2025
 
 This repository contains our implementation project inspired by the **NTIRE 2025 Cross Domain Object Detection Challenge**.
 
